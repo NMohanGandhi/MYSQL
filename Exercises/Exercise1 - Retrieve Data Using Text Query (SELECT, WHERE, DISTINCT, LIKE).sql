@@ -5,3 +5,4 @@ Write SQL queries for the following:
 2. Print all movies that have Avenger in their name.
 3. Print the year when the movie "The Godfather" was released.
 4. Print all distinct movie studios in the Bollywood industry.
+
